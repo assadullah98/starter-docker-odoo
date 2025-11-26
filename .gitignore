@@ -194,5 +194,4 @@ cython_debug/
 .cursorindexingignore
 
 *.pyc
-etc
 postgresql
